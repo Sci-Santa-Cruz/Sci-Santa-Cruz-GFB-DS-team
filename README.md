@@ -1,5 +1,5 @@
 
-# Test GFB DS team
+# Reto Banco Base Perfil MLOps
 
 ## Sobre el repositorio 
 
@@ -45,6 +45,7 @@ A continuación se prensenta las intrucciones para reproducir el ambiente.
 ├── Ejercicio_2
     |
     ├── Respuestas_y_arquitectura.pdf
+
 
 ```
 # Referencias 
